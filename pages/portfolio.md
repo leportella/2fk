@@ -2,8 +2,8 @@
 layout: page
 title : Portfolio 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
+subtitle: "Por onde já andamos..." 
+feature-img: "assets/img/pexels/desk-messy.jpeg"
 tags: [Archive]
 ---
 
