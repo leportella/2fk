@@ -8,30 +8,30 @@ description: "A website with blog posts and pages" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: 2fk arquitetura e engenharia
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>Estilo para a sua vida</p>
+  header_text_feature_image: assets/img/pexels/abstract.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: false  # Make sure you created a feed.xml with feed.xml layout
+  email_address: arquitetura@2fk.com.br # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: 
   google_plus:
-  instagram:
+  instagram: "2fkarquiteturaeengenharia"
   keybase:
   linkedin:  # Full URL
   pinterest:
@@ -53,7 +53,7 @@ theme_settings:
     tumblr:
     pinterest:
     pocket:
-    reddit: true
+    reddit: false
     linkedin:
     wordpress:
     email: true
