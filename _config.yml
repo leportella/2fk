@@ -9,7 +9,7 @@ description: "A website with blog posts and pages" # used by search engines
 theme_settings:
   # Meta
   title: 2fk arquitetura e engenharia
-  avatar: assets/logo.jpg
+  avatar: assets/img/logo.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
